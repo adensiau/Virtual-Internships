@@ -1,7 +1,7 @@
-# Virtual Internships
+#🖥️ Virtual Internships
 
 
-**📌 Description**
+**📄 Description**
 
 This project investigates the impact of communication patterns in a virtual internship environment on student performance. Using chat log data from an educational simulation of a biomedical engineering company, Nephrotex, we explore correlations between mentor-student interactions and final project scores.
 
